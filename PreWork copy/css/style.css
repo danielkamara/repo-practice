@@ -25,32 +25,32 @@ table {
   border: solid;
 }
 
-#p1 {
+#d1 {
   color: red;
   background-color: blue;
 }
 
-#p2 {
+#d2 {
   color: white;
   background-color: black;
 }
 
-.p3 {
+.d3 {
   color: blue;
   background-color: red;
 }
 
-.p4 {
+.d4 {
   color: green;
   background-color: yellowgreen;
 }
 
-#p1,
-.p3 {
+#d1,
+.d3 {
   border: solid;
 }
 
-.p4,
-#p2 {
+.d4,
+#d2 {
   border: dashed;
 }
