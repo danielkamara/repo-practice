@@ -2,6 +2,16 @@ body {
   background-color: lightcyan;
 }
 
+nav {
+  float: right;
+}
+nav a:hover {
+  color: black;
+}
+a {
+  text-decoration: none;
+}
+
 h2 {
   text-decoration: underline;
   text-align: center;
@@ -38,6 +48,10 @@ table {
 .d3 {
   color: blue;
   background-color: red;
+}
+
+#p3 {
+  font-family: fantasy;
 }
 
 .d4 {
