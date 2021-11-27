@@ -1,3 +1,3 @@
 # repo-practice
 
-Hello World
+This is my Pre-Work assignment.
